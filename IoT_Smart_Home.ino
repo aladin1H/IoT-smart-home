@@ -1,4 +1,4 @@
-//#include "DHT.h"        // including the library of DHT11 temperature and humidity sensor 
+//#include "DHT.h"        // including the library of DHT11 temperature and humidity sensors 
 #define DHTTYPE DHT11   // DHT 11 
 #include <IRremote.h> 
 int RECV_PIN = 2; 
